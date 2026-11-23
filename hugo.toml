@@ -2,3 +2,10 @@ baseURL = "https://maharshisecurity.github.io/"
 languageCode = "en-us"
 title = "Maharshi Security"
 theme = "PaperMod"
+
+[params]
+  description = "Cyber security notes, writeups and learning journey"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true

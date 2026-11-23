@@ -3,6 +3,19 @@ languageCode = "en-us"
 title = "Maharshi Security"
 theme = "PaperMod"
 
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
 [params]
   description = "Cyber security notes, writeups and learning journey"
   ShowReadingTime = true

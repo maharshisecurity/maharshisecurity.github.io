@@ -15,5 +15,21 @@
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;This is My First post as a Cyber Security learner&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Maharshi. I&amp;rsquo;m a cyber security learner documenting my journey in public, one lab at a time.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What you&amp;rsquo;ll find here&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Writeups:&lt;/strong&gt; walkthroughs of TryHackMe, Hack The Box and CTF challenges, with the reasoning behind each step, not just the answers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tool notes:&lt;/strong&gt; practical guides to tools like Nmap, Wireshark and Burp Suite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concepts explained simply:&lt;/strong&gt; networking, Linux, web security and the fundamentals that everything else builds on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning roadmap:&lt;/strong&gt; what I&amp;rsquo;m studying, what worked, and what didn&amp;rsquo;t&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-i-write&#34;&gt;Why I write&lt;/h2&gt;
+&lt;p&gt;Writing is the best way I know to turn half-understood ideas into real knowledge. If these notes also save someone else a few hours of confusion, even better.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

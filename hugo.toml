@@ -1,0 +1,4 @@
+baseURL = "https://maharshisecurity.github.io/"
+languageCode = "en-us"
+title = "Maharshi Security"
+theme = "PaperMod"
